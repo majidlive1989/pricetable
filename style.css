@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:  #F7F7FF;
+}
+main{
+    text-align: center;
+}
+.basic{
+    display: inline-block;
+    width: 240px;
+    background-color: white;
+    text-align: center;
+    padding: 50px 20px;
+    margin-left: 100px;
+    
+    border-radius: 5px;
+
+}
+header{
+text-align: center;
+margin: 50px 0;}
+
+.btnn{
+    width: 100%;
+   padding: 5px 5px;
+    background-color: #7276e1;
+    margin-top: 50px;
+}
+
+.pad{
+    margin: 10px 10px;
+    color: #F7F7FF;
+   
+    
+}
+.pro{
+    display: inline-block;
+    width: 240px;
+      background-color:#7276e1;
+       text-align: center;
+    padding: 50px 20px;
+    border-radius: 5px;
+    color: white;
+   
+
+}
+.pro button {
+    padding: 5px 5px;
+    background-color: #F7F7FF;
+    border: none;
+    width: 50%;
+}
+.master{
+    display: inline-block;
+    width: 240px;
+     text-align: center;
+    padding: 50px 20px;
+  background-color: white;
+     border-radius: 5px;
+   
+   
+}
