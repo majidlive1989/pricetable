@@ -26,9 +26,11 @@ margin: 50px 0;}
 
 .btnn{
     width: 100%;
-   padding: 5px 5px;
+   padding: 10px 5px;
     background-color: #7276e1;
     margin-top: 50px;
+    border-radius: 5px;
+    height: 40px;
 }
 
 .pad{
@@ -50,12 +52,16 @@ margin: 50px 0;}
 
 }
 .pro button {
-    padding: 5px 5px;
+    border-radius: 5px;
     background-color: #F7F7FF;
     border: none;
     width: 100%;
     margin-top: 30px;
+    padding: 10px 5px;
     
+}
+button:hover{
+    background-color: antiquewhite;
 }
 .master{
     display: inline-block;
